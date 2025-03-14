@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**xavis3c/xavis3c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# <picture><img src = "https://github.com/user-attachments/assets/2ac1f222-156c-491d-843c-41a28d9474f4" width = 50px></picture> Whoami:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Aka. Xavis3c | Cybersecurity | Junior Cybersecurity Analyst | Ethical Hacking | CTF Player | Self-taught
+
+📂 **¿Por qué este repositorio?** Porque quiero compartir conocimientos y aportar valor a la comunidad de ciberseguridad.<br>
+🎯 **Intereses:** Me apasiona el pentesting y el Red Team, siempre en busca de nuevos desafíos.<br>
+📖 **Siempre aprendiendo:** Expandiendo mis habilidades y explorando nuevas técnicas.<br>
+💥 Explotando sistemas **(de forma legal, siempre)**<br>
+📬 **Contáctame:** Encuentra mis redes abajo ⬇️  
+
+## 🌐 Redes Sociales:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayam-javier-valenzuela-cruz-9ab921251/)  
+[![Github](https://img.shields.io/badge/Github-000?style=rounded-square&logo=Github&logoColor=white&link=tu_github)](https://github.com/xavis3c)  
+
+## 📖 Mi Blog de Ciberseguridad  
+Descubre mi blog, donde comparto artículos con contenido variado sobre ciberseguridad:  
+
+- 🔧 Análisis de máquinas  
+- 💡 Recomendaciones útiles  
+- 🌟 Lo que pasa en ciberseguridad  
+- 🕵️‍♂️ ¡Y muchas sorpresas más!
+
+**Link:** https://elyoxsecurity.com/blog/
+
+# 💻 Tecnologia:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)  ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) 
