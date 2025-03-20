@@ -1,10 +1,10 @@
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Systems+Engineer;Cybersecurity+CTF+Player;Freelancer;RedTeam%20|%20BlueTeam%20|%20PurpleTeam%20;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Systems+Engineer;Cybersecurity+CTF+Player;Freelancer;RedTeam%20|%20BlueTeam%20|%20PurpleTeam%20;Always%20learning%20new%20things&center=true&width=380&height=45"></a>   <img align="right" alt="GIF" height="130px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 # <picture><img src = "https://github.com/user-attachments/assets/2ac1f222-156c-491d-843c-41a28d9474f4" width = 50px></picture> Whoami:
 
 👋 Aka. Xavis3c | Cybersecurity | Junior Cybersecurity Analyst | Ethical Hacking | CTF Player | Self-taught
 
-<img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+
 
 
 📂 **¿Por qué este repositorio?** Porque quiero compartir conocimientos y aportar valor a la comunidad de ciberseguridad.<br>
