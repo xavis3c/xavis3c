@@ -4,7 +4,7 @@
 
 👋 Aka. Xavis3c | Cybersecurity | Junior Cybersecurity Analyst | Ethical Hacking | CTF Player | Self-taught
 
-<img align="right" alt="GIF" height="135px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 
 📂 **¿Por qué este repositorio?** Porque quiero compartir conocimientos y aportar valor a la comunidad de ciberseguridad.<br>
