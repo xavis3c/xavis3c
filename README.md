@@ -14,8 +14,7 @@
 📬 **Contáctame:** Encuentra mis redes abajo ⬇️  
 
 ## 🌐 Redes Sociales:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayam-javier-valenzuela-cruz-9ab921251/)  
-[![Github](https://img.shields.io/badge/Github-000?style=rounded-square&logo=Github&logoColor=white&link=tu_github)](https://github.com/xavis3c)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayam-javier-valenzuela-cruz-9ab921251/) [![Github](https://img.shields.io/badge/Github-000?style=rounded-square&logo=Github&logoColor=white&link=tu_github)](https://github.com/xavis3c)  
 
 ## 📖 Mi Blog de Ciberseguridad  
 Descubre mi blog, donde comparto artículos con contenido variado sobre ciberseguridad:  
