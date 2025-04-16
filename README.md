@@ -2,7 +2,7 @@
 
 # <picture><img src = "https://github.com/user-attachments/assets/2ac1f222-156c-491d-843c-41a28d9474f4" width = 50px></picture> Whoami:
 
-👋 Aka. Xavis3c | Cybersecurity | Pentesting | Ethical Hacking | Systems engineer | CTF Player | Self-taught
+👋 Aka. Xavis3c | Cybersecurity | Pentesting | Ethical Hacking | Systems engineer | CTF Player | Self-taught.
 
 
 
