@@ -29,5 +29,5 @@ Descubre mi blog, donde comparto artículos con contenido variado sobre ciberseg
 # ⚙️ Tecnologías principales:
 
 <!-- 🧩 Tecnologías principales -->
-  <img src="https://skillicons.dev/icons?i=python,java,js,docker,linux,bash,wordpress,github,git,vscode,mysql,kali,vim" alt="Tecnologías principales" />
+  <img src="https://skillicons.dev/icons?i=python,bash,docker,linux,windows,wordpress,github,git,vscode,mysql,kali,vim,aws" alt="Tecnologías principales" />
   <br/><br/>
